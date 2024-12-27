@@ -1,0 +1,111 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.topbar {
+    padding-right: 18px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.link-sub {
+    font-size: 13px; 
+    text-align: center; 
+    padding-top: 10px;
+}
+
+.newlink {
+    justify-content: center; 
+    padding-top: 10px; 
+    padding-left: 580px; 
+    font-weight: 500;
+    color: #475569;
+}
+
+.button-btn {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 100%;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-copilot {
+    background-color: #eaeaea;
+    color: black;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 4px;
+    font-size: 1.3rem;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+h2 {
+    color: black;
+    font-weight: 600;
+    letter-spacing: -0.5px;
+    margin-bottom: 10px;
+    line-height: 100%;
+    font-size: 30px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 160%;
+    color: #475569;
+}
+
+.link-section {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: #005fb8;
+}
+
+.search-button {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.button-download {
+    background-color: #007acc;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 1.3rem;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.thickhead {
+    font-size: 70px;
+    text-align: center;
+}
+
+.navbar {
+    padding-left: 150px; 
+    padding-right: 150px; 
+    padding-top: 10px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-brand {
+    font-size: 20; 
+    font-weight: 550; 
+    padding-right: 23px;
+
+}
+
+
+.linkcolor {
+    color: #005fb8;
+}
